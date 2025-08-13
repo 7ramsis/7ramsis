@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7ramsis
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ...
 
 
 <!---
