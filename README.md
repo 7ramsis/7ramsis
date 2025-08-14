@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=120&section=header&text=7ramsis&fontSize=50&fontColor=00f7ff&animation=fadeIn)
+
 # 👋 Hi, I’m @7ramsis  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Aspiring+Developer;Tech+Explorer;Future+Full-Stack+Engineer)](https://git.io/typing-svg)
@@ -19,20 +21,8 @@
 
 ---
 
-### 📂 Projects
-- [🌐 My First Website](https://github.com/7ramsis/my-first-website)
-- [📄 HTML Practice](https://github.com/7ramsis/html-practice)
-
----
-
-### 📊 GitHub Stats
-![7ramsis's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ramsis&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-7ramsis-black?style=for-the-badge&logo=github)](https://github.com/7ramsis)
-
+[![X (Twitter)](https://img.shields.io/badge/X-@VraiMeliodas-1DA1F2?style=for-the-badge&logo=x)](https://x.com/VraiMeliodas) [![Instagram](https://img.shields.io/badge/Instagram-@m2liod4s-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/m2liod4s)
 
 <!---
 7ramsis/7ramsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
