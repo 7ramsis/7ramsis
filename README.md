@@ -1,6 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=RamsisDev&fontSize=50&fontColor=00f7ff&animation=fadeIn)
 
-# 👋 Hi, I’m @RamsisDev  
+
+# 👋 Hi, I’m @7eRamsisDev  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Aspiring+Developer;Tech+Explorer;Future+Full-Stack+Engineer)](https://git.io/typing-svg)
 
