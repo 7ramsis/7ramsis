@@ -9,8 +9,7 @@
 ### 👀 About Me
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 - 💡 Interested in **Computer Science, AI, and Web Development**
-- 🎯 Goal: **Build my first portfolio website by the end of 2025**
-- ⚡ Fun fact: I’m a **huge anime fan and love gaming**  
+
 
 ---
 
